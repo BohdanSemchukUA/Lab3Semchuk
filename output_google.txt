@@ -1,0 +1,109 @@
+
+N   Language              ISO-639 code Text                        
+1   afrikaans             af           Inwonende assistant         
+2   albanian              sq           Praktik                     
+3   amharic               am           Intern                      
+4   arabic                ar           المتدرب                     
+5   armenian              hy           Պրակտիկայով զբաղվել         
+6   azerbaijani           az           İnternat                    
+7   basque                eu           Barneko                     
+8   belarusian            be           Інтэрн                      
+9   bengali               bn           ইন্টার্ন                    
+10  bosnian               bs           Pripravnik                  
+11  bulgarian             bg           Стажант                     
+12  catalan               ca           Intern                      
+13  cebuano               ceb          Interna                     
+14  chichewa              ny           Wophunzira                  
+15  chinese (simplified)  zh-cn        实习生                         
+16  chinese (traditional) zh-tw        實習生                         
+17  corsican              co           Internu                     
+18  croatian              hr           Pripravnik                  
+19  czech                 cs           Internovat                  
+20  danish                da           Praktikant                  
+21  dutch                 nl           Intern                      
+22  english               en           Intern                      
+23  esperanto             eo           Internulo                   
+24  estonian              et           Praktikant                  
+25  filipino              tl           Intern                      
+26  finnish               fi           Harjoitella                 
+27  french                fr           Interne                     
+28  frisian               fy           Ko-assistint                
+29  galician              gl           Intern                      
+30  georgian              ka           სტაჟიორი ქალი               
+31  german                de           Praktikum                   
+32  greek                 el           Κρατώ                       
+33  gujarati              gu           નજરકેદ                      
+34  haitian creole        ht           Entèn                       
+35  hausa                 ha           Ɗalibin kwalejin likita     
+36  hawaiian              haw          Loko                        
+37  hebrew                iw           מתמחה                       
+38  hebrew                he           מתמחה                       
+39  hindi                 hi           नजरबंद                      
+40  hmong                 hmn          Tus kawm                    
+41  hungarian             hu           Szakember                   
+42  icelandic             is           Starfsnemi                  
+43  igbo                  ig           Nwa oru                     
+44  indonesian            id           Magang                      
+45  irish                 ga           Indibhid                    
+46  italian               it           Stagista                    
+47  japanese              ja           インターン                       
+48  javanese              jw           Intern                      
+49  kannada               kn           ಆವಿಷ್ಕಾರ                    
+50  kazakh                kk           Студент                     
+51  khmer                 km           និសសិតអាមងតេរនា             
+52  korean                ko           인턴                          
+53  kurdish (kurmanji)    ku           Pizişka destpêker           
+54  kyrgyz                ky           Стажер                      
+55  lao                   lo           ນັກຮຽນຝຶກຫັດ                
+56  latin                 la           Intern                      
+57  latvian               lv           Stažieris                   
+58  lithuanian            lt           Intern                      
+59  luxembourgish         lb           Internen                    
+60  macedonian            mk           Практикант                  
+61  malagasy              mg           Intern                      
+62  malay                 ms           Intern                      
+63  malayalam             ml           തടവുകാരി                    
+64  maltese               mt           Intern                      
+65  maori                 mi           Herenga                     
+66  marathi               mr           इंटर्न                      
+67  mongolian             mn           Дадлагажигч                 
+68  myanmar (burmese)     my           အလုပ်သင်ဆရာဝန်မ             
+69  nepali                ne           प्रशिक्षार्थी               
+70  norwegian             no           Turnuskandidat              
+71  odia                  or           ଇଣ୍ଟରନେଟ୍                   
+72  pashto                ps           داخلی                       
+73  persian               fa           کارورز                      
+74  polish                pl           Stażysta                    
+75  portuguese            pt           Intern                      
+76  punjabi               pa           ਇੰਟਰਨੈੱਟ                    
+77  romanian              ro           Intern                      
+78  russian               ru           Стажер                      
+79  samoan                sm           Initeria                    
+80  scots gaelic          gd           Interntern                  
+81  serbian               sr           Приправник                  
+82  sesotho               st           Ka hare                     
+83  shona                 sn           Mudzidzi                    
+84  sindhi                sd           اندروني                     
+85  sinhala               si           සීමාවාසික                   
+86  slovak                sk           Stáž                        
+87  slovenian             sl           Stažist                     
+88  somali                so           Xabsiyad                    
+89  spanish               es           Interno                     
+90  sundanese             su           Intern                      
+91  swahili               sw           Intern                      
+92  swedish               sv           Internera                   
+93  tajik                 tg           Интерн                      
+94  tamil                 ta           இன்டர்ன்                    
+95  telugu                te           ఇంటర్న్                     
+96  thai                  th           ฝึกงาน                      
+97  turkish               tr           Stajyer                     
+98  ukrainian             uk           Стажист                     
+99  urdu                  ur           انٹرن                       
+100 uyghur                ug           پىراكتىكانت                 
+101 uzbek                 uz           Stajyor                     
+102 vietnamese            vi           Thực tập                    
+103 welsh                 cy           Manteisiol                  
+104 xhosa                 xh           Umfundi                     
+105 yiddish               yi           ינטערן                      
+106 yoruba                yo           Akọṣẹ obinrin               
+107 zulu                  zu           Ukuvimbela ngomncityncennnfo
